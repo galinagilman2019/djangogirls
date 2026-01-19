@@ -27,3 +27,8 @@ temp/
 .environment
 htmlcov
 *google3ef9938c*
+# Local data / documents
+*.csv
+*.odt
+City_images/
+=0.0.4
